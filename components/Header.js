@@ -77,7 +77,7 @@ const Header = ({ placeholder }) => {
       {/* Right */}
       <div className="flex space-x-4 items-center justify-end text-gray-500">
         <p className="hidden md:inline py-2 px-3 cursor-pointer hover:headerRight">
-          Become a Host
+          Become a hoster
         </p>
 
         <div className="cursor-pointer hover:headerRight p-2">
